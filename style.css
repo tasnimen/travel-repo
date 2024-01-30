@@ -52,7 +52,7 @@ p {
 }
 /* banner section */
 .banner {
-  background-image: url("../Images/group1.png");
+  background-image: url("./Images/group1.png");
   width: 75%;
   height: 500px;
   border-radius: 10px;
@@ -352,7 +352,7 @@ p {
   font-weight: 400;
 }
 .deals-discounts {
-  background-image: url(../Images/bg1.png);
+  background-image: url(./Images/bg1.png);
   border-radius: 5px;
   height: 500px;
   flex-shrink: 0;
@@ -421,7 +421,7 @@ p {
   margin-bottom: 20px;
 }
 .banner2 {
-  background-image: url(../Images/bg2.png);
+  background-image: url(./Images/bg2.png);
   border-radius: 5px;
   height: 500px;
   flex-shrink: 0;
@@ -431,7 +431,7 @@ p {
   margin-top: 20px;
 }
 .banner3 {
-  background-image: url(../Images/bg1.png);
+  background-image: url(./Images/bg1.png);
   border-radius: 5px;
   height: 500px;
   flex-shrink: 0;
